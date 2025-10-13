@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currenctly pursuing my 2nd year b.Tech at GM University <br>Davngere, Karnataka. currently learning python programming languague and know about HTML and CSS
+i'm currenctly pursuing my 3rd year b.Tech at GM University <br>Davngere, Karnataka. currently learning DSA with python programming languague and know about HTML and CSS
 
 
 ## 🌐 Socials:
